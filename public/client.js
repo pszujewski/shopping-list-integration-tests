@@ -1,3 +1,5 @@
+// This is a comment
+
 
 var shoppingItemTemplate = (
   '<li class="js-shopping-item">' +
